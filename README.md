@@ -1,10 +1,22 @@
-# The 7th Guest VR – čeština pro Meta Quest 3
+# The 7th Guest VR – čeština pro Meta Quest 3 (BETA)
 
 Neoficiální fanouškovský překlad hry **The 7th Guest VR** (Vertigo Games) do češtiny pro **Meta Quest 3**.
 
 Přeloženo je vše textové: titulky a dialogy, menu a nastavení, nápovědy k hádankám i achievementy. Dabing zůstává anglický.
 
+> 🧪 **Beta verze pro testování (0.9-beta).** Překlad je kompletní, ale ve hře zatím nebyl celý prohraný. Počítej s překlepy, nepřesnostmi nebo titulky, které se nevejdou do okna. Každé nahlášení pomůže – viz [Chyby a připomínky](#chyby-a-připomínky).
+
 > ⚠️ Překlad neobsahuje žádná data hry. Hru si musíš koupit v Meta Store a mít ji nainstalovanou na headsetu.
+
+## Stav testování
+
+| Oblast | Stav |
+|---|---|
+| Načtení češtiny hrou, instalační skript | ✅ ověřeno |
+| Hlavní menu a diakritika ve fontu | ✅ ověřeno |
+| Titulky a dialogy v průběhu hry | 🧪 testuje se |
+| Nápovědy k hádankám (Spiritistická tabulka) | 🧪 testuje se |
+| Nastavení, achievementy, závěr hry | 🧪 testuje se |
 
 ## Podporovaná verze
 
@@ -53,7 +65,13 @@ Hra na Unreal Engine 5 načítá kromě svých datových souborů i doplňkový 
 
 ## Chyby a připomínky
 
-Našel jsi překlep, useknutý titulek nebo nepřeložený text? Založ [Issue](../../issues), ideálně s popisem místnosti a situace nebo s fotkou z headsetu.
+Našel jsi překlep, useknutý titulek nebo nepřeložený text? Založ [Issue](../../issues) a uveď:
+
+- co je špatně (ideálně fotka nebo záznam z headsetu),
+- kde ve hře (místnost, hádanka, postava),
+- jak by to podle tebe mělo znít.
+
+Zajímají nás i čtverečky místo písmen, texty, které se nevejdou do okna, a cokoli, co zní nepřirozeně.
 
 ## Právní upozornění
 
